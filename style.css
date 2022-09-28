@@ -73,10 +73,10 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(130, 130, 130);
     color: #E5E7EB;
     font-size: 18px;
-    height: 200px;
+    height: 225px;
     width: 500px;
 }
 
