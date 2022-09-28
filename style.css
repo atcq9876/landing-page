@@ -81,10 +81,11 @@ button {
 }
 
 .info {
-    background-color: #F9FAF8;
+    background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .info-header {
@@ -92,16 +93,17 @@ button {
     font-size: 36px;
     font-weight: bolder;
     text-align: center;
+    padding-bottom: 16px;
 }
 
 .boxes {
     display: flex;
-    gap: 32px;
+    gap: 48px;
 }
 
 .box {
-    height: 125px;
-    width: 125px;
+    height: 150px;
+    width: 150px;
     border-style: solid;
     border-color: #3882F6;
     border-width: 4px;
@@ -113,7 +115,8 @@ button {
     color: #808080;
     font-size: 18px;
     text-align: center;
-    width: 125px;
+    padding-top: 8px;
+    width: 158px;
 }
 
 .quote-section {
