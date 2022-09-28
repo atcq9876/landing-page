@@ -81,6 +81,7 @@ button {
     background-color: #F9FAF8;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .info-header {
@@ -92,15 +93,15 @@ button {
 
 .boxes {
     display: flex;
-    justify-content: space-around;
+    gap: 32px;
 }
 
 .box {
-    height: 100px;
-    width: 100px;
+    height: 125px;
+    width: 125px;
     border-style: solid;
     border-color: #3882F6;
-    border-width: 2px;
+    border-width: 4px;
     border-radius: 12px;
     flex: none;
 }
@@ -108,7 +109,8 @@ button {
 .subtext {
     color: #808080;
     font-size: 18px;
-    width: 100px;
+    text-align: center;
+    width: 125px;
 }
 
 .quote-section {
