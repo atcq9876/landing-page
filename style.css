@@ -38,6 +38,7 @@ li {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
+    padding: 150px 200px;
 }
 
 .hero {
