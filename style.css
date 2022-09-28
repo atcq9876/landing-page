@@ -38,7 +38,7 @@ li {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
-    padding: 150px 200px;
+    padding: 100px 200px;
 }
 
 .hero {
@@ -118,7 +118,7 @@ button {
 
 .quote-section {
     background-color: #E5E7EB;
-    padding: 150px 300px;
+    padding: 100px 300px;
 }
 
 .quote {
