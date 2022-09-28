@@ -139,8 +139,14 @@ button {
 }
 
 .action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: #3882F6;
     color: white;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    border-radius: 8px;
 }
 
 .action-header {
