@@ -60,13 +60,15 @@ li {
 button {
     background-color: #3882F6;
     color: white;
+    font-size: 18px;
+    font-weight: bold;
     border-radius: 8px;
     padding: 8px 32px;
     margin-top: 12px;
 }
 
-.intro-image {
-
+.hero button {
+    border: 0;
 }
 
 .placeholder {
@@ -156,6 +158,10 @@ button {
 
 .action-body {
     font-size: 18px;
+}
+
+.action button {
+    border: 2px solid white;
 }
 
 footer {
